@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiServiceReport_1", "ApiServiceReport_1\ApiServiceReport_1.csproj", "{20E2EAF6-89C3-448C-A038-B4F258880A41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{EB1D67E3-0846-422C-92B2-FC0C43BEAC62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20E2EAF6-89C3-448C-A038-B4F258880A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E2EAF6-89C3-448C-A038-B4F258880A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E2EAF6-89C3-448C-A038-B4F258880A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E2EAF6-89C3-448C-A038-B4F258880A41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB1D67E3-0846-422C-92B2-FC0C43BEAC62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB1D67E3-0846-422C-92B2-FC0C43BEAC62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB1D67E3-0846-422C-92B2-FC0C43BEAC62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB1D67E3-0846-422C-92B2-FC0C43BEAC62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40815955-AB57-457D-987C-8F54878B36E8}
+	EndGlobalSection
+EndGlobal
